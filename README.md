@@ -10,3 +10,4 @@ Sha513
 
 Encode - Dcode & Wordlist Calculator
 
+coded: Ragif Pashayev
